@@ -67,10 +67,10 @@
 <h2>📊 GitHub Profile Stats</h2>
 <div style="display: flex; justify-content: space-between;">
     <a style="flex: 1; margin-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ankitaaa03&&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&rank_icon=github" height="192px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=laksh2701&&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=79ff97&rank_icon=github" height="192px"/>
     </a>  
   <a style="flex: 1; margin-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitaaa03&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=F8D866&card_width=400&langs_count=8" height="192px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laksh2701&theme=react&hide_border=true&bg_color=1F222E&title_color=fff&icon_color=F8D866&card_width=400&langs_count=8" height="192px"/>
     </a>
 </div>
 
@@ -96,5 +96,5 @@
 
 <!-- New Section -->
 <p align="center">
-  ❤️ From <a href="https://github.com/laksh2710">Ankita</a>
+  ❤️ From <a href="https://github.com/laksh2701">Lakshay</a>
 </p>
