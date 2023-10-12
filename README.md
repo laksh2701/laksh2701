@@ -1,6 +1,6 @@
 <!-- New Section -->
 <p align="center"> 
-  <img src="https://github.com/Ankitaaa03/Ankitaaa03/assets/133629631/0c51f931-aec0-41b0-b0ef-0bb5464957b3" style="display: inline-block; margin: 0 auto; width:800px;">
+  <img src="https://raw.githubusercontent.com/laksh2701/laksh2701/main/img.gif" style="display: inline-block; margin: 0 auto; width:800px;">
 </p>
 <h1 align="center">
   Hi👋,I'm Lakshay Bansal 
